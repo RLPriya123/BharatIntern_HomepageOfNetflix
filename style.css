@@ -1,0 +1,31 @@
+body{
+    background-image:url('netflix.jpg');
+    background-blend-mode: lighten;
+
+}
+.q{
+    color:white;
+    font-size:40px;
+}
+#c{
+    font-size:30px;
+    color:white;
+}
+#d{
+    font-size:15px;
+    color:white;
+}
+#abc{
+
+    background-color:red;
+    font-size:14px; 
+    display:inline;
+    float:right;
+}
+#mn
+{
+    background-color:red;
+    float:right;
+}
+
+
